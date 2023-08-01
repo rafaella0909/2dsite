@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background-color: #030303;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width: 18%;
+    margin-right: 14cm;
+}
+
+.cabecalho-lista-item{
+    color: white;
+    display: inline-block;
+    margin: 0% 16px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.escola-imagem{
+    width: 35%;
+    display: inline-block;
+    margin: 4% 120px;
+    align-items: flex-start;
+}
+.escola-intervalo{
+    width: 30%;
+    display: inline-block;
+    margin: 4% 2px;
+    align-items: flex-end;
+}
+
+.escola{
+    background-color: darkgrey;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0;
+}
+
+
+
+.escola-div-conteudo{
+width: 50%;
+margin-inline-start: 2cm;
+font-size: 18px;
+color: black;
+}
+
+.escola-titulo{
+    padding: 35px 0;
+    color: black;
+    font-family: 'Inter', sans-serif;
+}
+
+.escola-texto-um{
+    font-family: 'Inter', sans-serif;
+}
+
+.estudante-imagem{
+    width: 150px;
+}
+
+.estudante-icone{
+    width: 24px;
+    padding: 15px;
+}
+
+.estudante-div{
+    text-align: center;
+
+}
+
+.estudante-titulo{
+   color: white;
+    text-align: center;
+    padding: 60px 0;
+    background: #313131;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 22% 22% 22% 22%;
+justify-content: center;
+padding: 15px 0;
+background: #313131;
+color: white;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+   
+}
+
+.imagem-rodape{
+   height: 40px;
+   padding: 12px 0;
+  width: 4cm;
+}
+    
+.escola-div-conteudo-emilio{
+    width: 50%;
+    margin-inline-start: 2cm;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+}
+
+.emilio-imagem{
+    width: 20%;
+    display: inline-block;
+    margin: 4% 120px;
+    align-items: flex-start;
+}
+
+.escola-texto-um-em{
+    color: black;
+}
